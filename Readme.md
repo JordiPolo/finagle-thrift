@@ -22,7 +22,7 @@ bundle or gem works.
 In summary, to avoid those pesky Hash#index deprecation warnings, do
 this in your gemfile:
 
-```
-gem 'finagle-thrift', git: 'git@github.com:jordipolo/finagle-thrift',
+```Ruby
+gem 'finagle-thrift', git: 'git@github.com:JordiPolo/finagle-thrift',
 tag: '1.3.2'
 ```
